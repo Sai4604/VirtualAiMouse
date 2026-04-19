@@ -1,2 +1,2 @@
-# VirtualAiMouse
-A recent study has introduced an AI-driven virtual mouse that has the potential to revolutionize Human-Computer Interaction (HCI) through its powerful machine-learning capabilities.
+# BigData
+Cloud Computing and Big Data project on Machine Translation from one regional language (Kannada) to another (Telugu).
